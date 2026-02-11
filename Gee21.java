@@ -1,7 +1,7 @@
 public class Gee21{
   public static void main(String[] args){
 
-    int[][] ray = new int[7][7];
+    int[][] ray = new int[2][3];
 
     //Populate the array with sequential numbers
     /*
@@ -20,6 +20,7 @@ public class Gee21{
           a += 1;
         }
       }
+
     
 
     ArrayAverages twoDee = new ArrayAverages(ray);

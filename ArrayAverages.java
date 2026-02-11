@@ -37,7 +37,7 @@ public class ArrayAverages{
       {
         sum += ray[row][col];
       }
-      sum /= height;
+      sum /= ray.length;
       System.out.println("The average of Column " + col+ " is " + sum);
     }
   }
@@ -59,6 +59,8 @@ public class ArrayAverages{
     
 
   }
+
+
 
 
   public String toString(){
