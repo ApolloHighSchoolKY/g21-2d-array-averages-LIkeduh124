@@ -1,7 +1,7 @@
 public class Gee21{
   public static void main(String[] args){
 
-    int[][] ray = new int[2][3];
+    int[][] ray = new int[7][7];
 
     //Populate the array with sequential numbers
     /*
